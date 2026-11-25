@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKe
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters, ConversationHandler
 
 # ===== الإعدادات =====
-TOKEN = "ضع_التوكن_هنا" # <--- غير ده
+TOKEN = "9206916414:AAEr1PFbSOuR2NjbkuvRTMuat_I3UnfR-Tw"
 CHANNEL_USERNAME = "@mo_f_u"
 CHANNEL_URL = "https://t.me/mo_f_u"
 DEV_USERNAME = "@f_v_o12"
